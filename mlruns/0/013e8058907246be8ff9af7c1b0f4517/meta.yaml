@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/013e8058907246be8ff9af7c1b0f4517/artifacts
+end_time: 1717274445599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 013e8058907246be8ff9af7c1b0f4517
+run_name: agreeable-lark-28
+run_uuid: 013e8058907246be8ff9af7c1b0f4517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717274400812
+status: 4
+tags: []
+user_id: samhansen

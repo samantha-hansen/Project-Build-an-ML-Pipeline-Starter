@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/7fd67e4763a54d5fbceef5e7bed05581/artifacts
+end_time: 1717177783753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fd67e4763a54d5fbceef5e7bed05581
+run_name: youthful-mink-676
+run_uuid: 7fd67e4763a54d5fbceef5e7bed05581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717177737411
+status: 3
+tags: []
+user_id: samhansen

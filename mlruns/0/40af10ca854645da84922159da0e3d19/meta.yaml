@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/40af10ca854645da84922159da0e3d19/artifacts
+end_time: 1717437493537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40af10ca854645da84922159da0e3d19
+run_name: likeable-calf-816
+run_uuid: 40af10ca854645da84922159da0e3d19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717437139464
+status: 3
+tags: []
+user_id: samhansen

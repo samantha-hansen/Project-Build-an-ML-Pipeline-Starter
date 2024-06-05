@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/15a1ef132be84a968a3f7c524a1b681e/artifacts
+end_time: 1717375319513
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15a1ef132be84a968a3f7c524a1b681e
+run_name: unruly-dolphin-764
+run_uuid: 15a1ef132be84a968a3f7c524a1b681e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717375314209
+status: 4
+tags: []
+user_id: samhansen

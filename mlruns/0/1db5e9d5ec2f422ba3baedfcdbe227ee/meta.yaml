@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/1db5e9d5ec2f422ba3baedfcdbe227ee/artifacts
+end_time: 1717433688130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1db5e9d5ec2f422ba3baedfcdbe227ee
+run_name: grandiose-koi-276
+run_uuid: 1db5e9d5ec2f422ba3baedfcdbe227ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717433531168
+status: 4
+tags: []
+user_id: samhansen

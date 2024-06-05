@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/e121ab11720641879a279fc2df44c789/artifacts
+end_time: 1717437682256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e121ab11720641879a279fc2df44c789
+run_name: thundering-shark-33
+run_uuid: e121ab11720641879a279fc2df44c789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717437493793
+status: 3
+tags: []
+user_id: samhansen

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/a3be576684d04e01a643a109701f70cb/artifacts
+end_time: 1717373533892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3be576684d04e01a643a109701f70cb
+run_name: glamorous-sow-140
+run_uuid: a3be576684d04e01a643a109701f70cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717373529269
+status: 4
+tags: []
+user_id: samhansen

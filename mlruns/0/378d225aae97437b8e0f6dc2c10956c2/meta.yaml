@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/378d225aae97437b8e0f6dc2c10956c2/artifacts
+end_time: 1717366838060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 378d225aae97437b8e0f6dc2c10956c2
+run_name: skittish-quail-224
+run_uuid: 378d225aae97437b8e0f6dc2c10956c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717366747306
+status: 4
+tags: []
+user_id: samhansen

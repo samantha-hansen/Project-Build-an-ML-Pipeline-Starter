@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/f29dc2d1050e442fbb68fce8b910ba89/artifacts
+end_time: 1717277005474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f29dc2d1050e442fbb68fce8b910ba89
+run_name: indecisive-ant-828
+run_uuid: f29dc2d1050e442fbb68fce8b910ba89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717276924173
+status: 4
+tags: []
+user_id: samhansen

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/b1520c490a314725bfc496513be5f4f7/artifacts
+end_time: 1717369474181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1520c490a314725bfc496513be5f4f7
+run_name: thoughtful-stoat-510
+run_uuid: b1520c490a314725bfc496513be5f4f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717369472156
+status: 4
+tags: []
+user_id: samhansen

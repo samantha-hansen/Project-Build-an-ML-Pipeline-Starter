@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/2338d51d90df42578a365b3813e87008/artifacts
+end_time: 1717435448259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2338d51d90df42578a365b3813e87008
+run_name: big-fowl-203
+run_uuid: 2338d51d90df42578a365b3813e87008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717435291580
+status: 4
+tags: []
+user_id: samhansen

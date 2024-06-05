@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/2eaf47f97f1d480abaf538c218cdd5ab/artifacts
+end_time: 1717373363239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2eaf47f97f1d480abaf538c218cdd5ab
+run_name: gentle-ape-994
+run_uuid: 2eaf47f97f1d480abaf538c218cdd5ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717373361467
+status: 4
+tags: []
+user_id: samhansen

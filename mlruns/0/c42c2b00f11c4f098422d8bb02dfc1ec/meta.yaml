@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/c42c2b00f11c4f098422d8bb02dfc1ec/artifacts
+end_time: 1717373533588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c42c2b00f11c4f098422d8bb02dfc1ec
+run_name: likeable-kite-755
+run_uuid: c42c2b00f11c4f098422d8bb02dfc1ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717373531891
+status: 4
+tags: []
+user_id: samhansen

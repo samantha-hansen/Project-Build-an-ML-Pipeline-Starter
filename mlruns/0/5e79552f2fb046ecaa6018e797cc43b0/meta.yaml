@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/5e79552f2fb046ecaa6018e797cc43b0/artifacts
+end_time: 1717369474470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e79552f2fb046ecaa6018e797cc43b0
+run_name: unique-eel-733
+run_uuid: 5e79552f2fb046ecaa6018e797cc43b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717369469309
+status: 4
+tags: []
+user_id: samhansen

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/bcf65d812f564cdabf02bb452df32f24/artifacts
+end_time: 1717015462091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcf65d812f564cdabf02bb452df32f24
+run_name: brawny-sow-824
+run_uuid: bcf65d812f564cdabf02bb452df32f24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717015375610
+status: 3
+tags: []
+user_id: samhansen

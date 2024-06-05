@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/c2fcc7e1990b42d9964092bd00d9130f/artifacts
+end_time: 1717003641245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2fcc7e1990b42d9964092bd00d9130f
+run_name: persistent-fawn-716
+run_uuid: c2fcc7e1990b42d9964092bd00d9130f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717003576016
+status: 4
+tags: []
+user_id: samhansen

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/cc53f7742f804914bfbc88336ea0ecc8/artifacts
+end_time: 1717433687814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc53f7742f804914bfbc88336ea0ecc8
+run_name: fortunate-snipe-30
+run_uuid: cc53f7742f804914bfbc88336ea0ecc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717433534615
+status: 4
+tags: []
+user_id: samhansen

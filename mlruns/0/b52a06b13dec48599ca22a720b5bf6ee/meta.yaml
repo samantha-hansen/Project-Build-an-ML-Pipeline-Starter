@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/b52a06b13dec48599ca22a720b5bf6ee/artifacts
+end_time: 1717375319185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b52a06b13dec48599ca22a720b5bf6ee
+run_name: dazzling-ram-832
+run_uuid: b52a06b13dec48599ca22a720b5bf6ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717375317363
+status: 4
+tags: []
+user_id: samhansen

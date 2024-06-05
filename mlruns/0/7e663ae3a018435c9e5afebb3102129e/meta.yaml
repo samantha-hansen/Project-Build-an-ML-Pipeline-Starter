@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/7e663ae3a018435c9e5afebb3102129e/artifacts
+end_time: 1717438065953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e663ae3a018435c9e5afebb3102129e
+run_name: clumsy-squirrel-598
+run_uuid: 7e663ae3a018435c9e5afebb3102129e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717437682571
+status: 3
+tags: []
+user_id: samhansen

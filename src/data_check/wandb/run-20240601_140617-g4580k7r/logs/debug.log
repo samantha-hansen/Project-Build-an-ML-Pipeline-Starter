@@ -1,0 +1,13 @@
+2024-06-01 14:06:17,778 INFO    MainThread:26693 [wandb_setup.py:_flush():68] Configure stats pid to 26693
+2024-06-01 14:06:17,779 INFO    MainThread:26693 [wandb_setup.py:_flush():68] Loading settings from /home/samhansen/.config/wandb/settings
+2024-06-01 14:06:17,779 INFO    MainThread:26693 [wandb_setup.py:_flush():68] Loading settings from /mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/src/data_check/wandb/settings
+2024-06-01 14:06:17,779 INFO    MainThread:26693 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True', 'run_group': 'development', 'project': 'nyc_airbnb'}
+2024-06-01 14:06:17,780 WARNING MainThread:26693 [wandb_setup.py:_flush():68] Could not save program above cwd: /home/samhansen/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest
+2024-06-01 14:06:17,781 INFO    MainThread:26693 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': None, 'program': '/home/samhansen/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest'}
+2024-06-01 14:06:17,781 INFO    MainThread:26693 [wandb_init.py:_log_setup():478] Logging user logs to /mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/src/data_check/wandb/run-20240601_140617-g4580k7r/logs/debug.log
+2024-06-01 14:06:17,781 INFO    MainThread:26693 [wandb_init.py:_log_setup():479] Logging internal logs to /mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/src/data_check/wandb/run-20240601_140617-g4580k7r/logs/debug-internal.log
+2024-06-01 14:06:17,782 INFO    MainThread:26693 [wandb_init.py:init():518] calling init triggers
+2024-06-01 14:06:17,782 INFO    MainThread:26693 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-06-01 14:06:17,783 INFO    MainThread:26693 [wandb_init.py:init():566] wandb.init() called when a run is still active
+2024-06-01 14:06:22,057 WARNING MsgRouterThr:26693 [router.py:message_loop():77] message_loop has been closed

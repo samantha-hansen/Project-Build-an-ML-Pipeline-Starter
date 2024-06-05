@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/9dbed28a0e504e26823864ed40f3ca60/artifacts
+end_time: 1717277512107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dbed28a0e504e26823864ed40f3ca60
+run_name: bouncy-snail-604
+run_uuid: 9dbed28a0e504e26823864ed40f3ca60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717277488063
+status: 3
+tags: []
+user_id: samhansen

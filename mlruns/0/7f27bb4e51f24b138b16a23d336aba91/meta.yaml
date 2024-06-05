@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/7f27bb4e51f24b138b16a23d336aba91/artifacts
+end_time: 1717277511893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f27bb4e51f24b138b16a23d336aba91
+run_name: unleashed-crow-291
+run_uuid: 7f27bb4e51f24b138b16a23d336aba91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717277492976
+status: 3
+tags: []
+user_id: samhansen

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/5492f282edc34d5aa315e0b135b98c99/artifacts
+end_time: 1717375582831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5492f282edc34d5aa315e0b135b98c99
+run_name: nosy-slug-236
+run_uuid: 5492f282edc34d5aa315e0b135b98c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717375490705
+status: 4
+tags: []
+user_id: samhansen

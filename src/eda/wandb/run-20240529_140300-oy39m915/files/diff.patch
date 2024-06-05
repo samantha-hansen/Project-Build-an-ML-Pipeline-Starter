@@ -1,0 +1,13 @@
+diff --git a/conda.yml b/conda.yml
+index e8f87fa..5988b93 100644
+--- a/conda.yml
++++ b/conda.yml
+@@ -8,4 +8,5 @@ dependencies:
+   - hydra-core=1.0.6
+   - pip=20.3.3
+   - pip:
+-      - wandb==0.13.9
+\ No newline at end of file
++      - wandb==0.13.9
++      - databricks_cli==0.8.7
+\ No newline at end of file

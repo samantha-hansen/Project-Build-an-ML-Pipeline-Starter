@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/ae41405abee04b05a364f88ae5b9812e/artifacts
+end_time: 1717435447964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae41405abee04b05a364f88ae5b9812e
+run_name: valuable-zebra-495
+run_uuid: ae41405abee04b05a364f88ae5b9812e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717435294464
+status: 4
+tags: []
+user_id: samhansen

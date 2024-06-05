@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/6e570e5fa7394cfc80019edf44161766/artifacts
+end_time: 1717275983223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e570e5fa7394cfc80019edf44161766
+run_name: likeable-sheep-239
+run_uuid: 6e570e5fa7394cfc80019edf44161766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717275972736
+status: 3
+tags: []
+user_id: samhansen

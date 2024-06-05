@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/c729bd85920a484ea90d0be63d90d62a/artifacts
+end_time: 1717437139195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c729bd85920a484ea90d0be63d90d62a
+run_name: mysterious-gnat-130
+run_uuid: c729bd85920a484ea90d0be63d90d62a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717436970054
+status: 3
+tags: []
+user_id: samhansen

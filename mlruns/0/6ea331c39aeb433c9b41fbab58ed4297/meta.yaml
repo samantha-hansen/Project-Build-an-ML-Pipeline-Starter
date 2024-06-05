@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/6ea331c39aeb433c9b41fbab58ed4297/artifacts
+end_time: 1717366418680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ea331c39aeb433c9b41fbab58ed4297
+run_name: intrigued-ox-444
+run_uuid: 6ea331c39aeb433c9b41fbab58ed4297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717366414891
+status: 4
+tags: []
+user_id: samhansen
