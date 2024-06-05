@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/8e1b97179e31404db25ee15a29836f17/artifacts
+end_time: 1717619835884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e1b97179e31404db25ee15a29836f17
+run_name: gentle-finch-520
+run_uuid: 8e1b97179e31404db25ee15a29836f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717619771389
+status: 4
+tags: []
+user_id: samhansen

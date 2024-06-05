@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/117f2688139645beac05f8b117dab371/artifacts
+end_time: 1717619800976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 117f2688139645beac05f8b117dab371
+run_name: bedecked-vole-746
+run_uuid: 117f2688139645beac05f8b117dab371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717619777983
+status: 3
+tags: []
+user_id: samhansen
