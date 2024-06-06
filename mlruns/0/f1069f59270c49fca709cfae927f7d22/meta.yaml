@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/f1069f59270c49fca709cfae927f7d22/artifacts
+end_time: 1717628553861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1069f59270c49fca709cfae927f7d22
+run_name: languid-steed-602
+run_uuid: f1069f59270c49fca709cfae927f7d22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717628534196
+status: 3
+tags: []
+user_id: samhansen

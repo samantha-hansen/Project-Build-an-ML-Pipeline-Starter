@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/6839eb15b70346108c62180ffb615225/artifacts
+end_time: 1717630720670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6839eb15b70346108c62180ffb615225
+run_name: selective-yak-219
+run_uuid: 6839eb15b70346108c62180ffb615225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717628553899
+status: 3
+tags: []
+user_id: samhansen

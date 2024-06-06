@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/2c29efac6ce74dd1a307f18857f624cc/artifacts
+end_time: 1717630720911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c29efac6ce74dd1a307f18857f624cc
+run_name: skittish-wren-854
+run_uuid: 2c29efac6ce74dd1a307f18857f624cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717628486930
+status: 3
+tags: []
+user_id: samhansen

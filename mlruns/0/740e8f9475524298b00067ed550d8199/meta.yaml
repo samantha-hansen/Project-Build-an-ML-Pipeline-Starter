@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/740e8f9475524298b00067ed550d8199/artifacts
+end_time: 1717622686642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 740e8f9475524298b00067ed550d8199
+run_name: adventurous-cat-346
+run_uuid: 740e8f9475524298b00067ed550d8199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717620605717
+status: 4
+tags: []
+user_id: samhansen

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/aa08bcc087ac4672b376add128f1fc8f/artifacts
+end_time: 1717628532531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa08bcc087ac4672b376add128f1fc8f
+run_name: exultant-whale-156
+run_uuid: aa08bcc087ac4672b376add128f1fc8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717628511308
+status: 3
+tags: []
+user_id: samhansen

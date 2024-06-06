@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/f128070b1cf145f19113674301706504/artifacts
+end_time: 1717628501773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f128070b1cf145f19113674301706504
+run_name: bedecked-elk-0
+run_uuid: f128070b1cf145f19113674301706504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717628491170
+status: 3
+tags: []
+user_id: samhansen

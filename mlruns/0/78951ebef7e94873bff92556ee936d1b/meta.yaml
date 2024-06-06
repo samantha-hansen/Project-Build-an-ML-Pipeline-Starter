@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/78951ebef7e94873bff92556ee936d1b/artifacts
+end_time: 1717620543454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78951ebef7e94873bff92556ee936d1b
+run_name: thoughtful-newt-716
+run_uuid: 78951ebef7e94873bff92556ee936d1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717620531980
+status: 3
+tags: []
+user_id: samhansen

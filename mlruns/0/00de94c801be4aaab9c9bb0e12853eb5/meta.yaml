@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/00de94c801be4aaab9c9bb0e12853eb5/artifacts
+end_time: 1717620605675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00de94c801be4aaab9c9bb0e12853eb5
+run_name: clumsy-elk-655
+run_uuid: 00de94c801be4aaab9c9bb0e12853eb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717620580242
+status: 3
+tags: []
+user_id: samhansen

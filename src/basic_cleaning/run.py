@@ -13,7 +13,20 @@ logger = logging.getLogger()
 
 # DO NOT MODIFY
 def go(args):
-    
+    '''
+    Execute cleaning process for NYC Airbnb dataset utilizing wandb tool.
+
+    :param args:
+        name: name for object containing the necessary attributes
+        min_price (float): The minimum price for filtering
+        max_price (float): The maximum price for filtering
+        output_artifact (str): The name of the output artifact created
+        output_type (str): The type of the output artifact created
+        output_description (str): A description of the output artifact.
+
+    :return:
+        None
+    '''
     logger.info('Starting wandb run.')
     run = wandb.init(
         project = 'nyc_airbnb',

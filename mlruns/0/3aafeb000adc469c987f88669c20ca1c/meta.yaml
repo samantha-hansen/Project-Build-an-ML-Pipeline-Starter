@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/3aafeb000adc469c987f88669c20ca1c/artifacts
+end_time: 1717620568499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3aafeb000adc469c987f88669c20ca1c
+run_name: smiling-mouse-898
+run_uuid: 3aafeb000adc469c987f88669c20ca1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717620543491
+status: 3
+tags: []
+user_id: samhansen

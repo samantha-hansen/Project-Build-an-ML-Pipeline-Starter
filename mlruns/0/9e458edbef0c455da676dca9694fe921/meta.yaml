@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sammu/Documents/WGU/D501MLDevOps/pythonProject/ProjectBuildanMLPipelineStarter/mlruns/0/9e458edbef0c455da676dca9694fe921/artifacts
+end_time: 1717622687048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e458edbef0c455da676dca9694fe921
+run_name: marvelous-crow-420
+run_uuid: 9e458edbef0c455da676dca9694fe921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717620527765
+status: 4
+tags: []
+user_id: samhansen
